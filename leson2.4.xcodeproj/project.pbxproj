@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A125EB3326DA527000EAA481 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = A125EB3226DA527000EAA481 /* Question.swift */; };
 		A1D8E32826D812DB00B6C541 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1D8E32726D812DB00B6C541 /* AppDelegate.swift */; };
 		A1D8E32A26D812DB00B6C541 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1D8E32926D812DB00B6C541 /* SceneDelegate.swift */; };
 		A1D8E32C26D812DB00B6C541 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1D8E32B26D812DB00B6C541 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A125EB3226DA527000EAA481 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 		A1D8E32426D812DB00B6C541 /* leson2.4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = leson2.4.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1D8E32726D812DB00B6C541 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A1D8E32926D812DB00B6C541 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -41,6 +43,7 @@
 			isa = PBXGroup;
 			children = (
 				A1D8E32B26D812DB00B6C541 /* ViewController.swift */,
+				A125EB3226DA527000EAA481 /* Question.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -178,6 +181,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A1D8E32C26D812DB00B6C541 /* ViewController.swift in Sources */,
+				A125EB3326DA527000EAA481 /* Question.swift in Sources */,
 				A1D8E32826D812DB00B6C541 /* AppDelegate.swift in Sources */,
 				A1D8E32A26D812DB00B6C541 /* SceneDelegate.swift in Sources */,
 			);
